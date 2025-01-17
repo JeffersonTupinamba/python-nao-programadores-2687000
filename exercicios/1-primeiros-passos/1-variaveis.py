@@ -8,7 +8,7 @@ nome =  'Paloma'
 profissao = 'vendedora'
 objetivo =  'aprender python para automação'
 
-print(nome,profissao, objetivo)
+print(nome, profissao, objetivo)
 
 # Declare variáveis de cada tipo numérico
 idade = 20
